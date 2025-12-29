@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/Stars-83-ffd700?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=frncsryddlbg&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
-  <a href="https://g.dev/sngttncs">
-    <img src="https://img.shields.io/badge/Google_Dev-Active-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/>
+  <a href="https://frncsryddlbg.pages.dev">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -30,26 +30,81 @@
 const francisRey = {
   title: "Full Stack Software Architect",
   location: "Hokkaido, Japan 🇯🇵",
-  company: "Solo Architect",
-  focus: [
-    "Enterprise-Level Web Applications",
-    "Real-Time Data Systems",
-    "AI/ML Integration",
-    "Space Technology & NASA APIs"
-  ],
-  currentlyBuilding: "🌌 Portfolio with 25+ integrated widgets",
-  funFact: "I optimize for 170Hz displays with <1.5s load times"
+  
+  portfolio: {
+    components: "190+",
+    features: "28+",
+    linesOfCode: "500K+",
+    hostedOn: "Cloudflare Pages"
+  },
+  
+  currentlyBuilding: "🌌 Enterprise-Level Solo Portfolio Platform",
+  
+  specializations: [
+    "Real-Time Systems & WebSockets",
+    "AI/ML Integration (TensorFlow.js, Gemini)",
+    "NASA API Integrations & Space Tech",
+    "WebGL/Three.js 3D Graphics",
+    "Neuroadaptive & BCI Interfaces"
+  ]
 };
 ```
 
+---
+
+## 🎯 Portfolio Features (28+ Integrated Widgets)
+
 <div align="center">
 
-### 🎯 What I Build
+### 🤖 AI & Machine Learning
+| Feature | Description |
+|:---|:---|
+| **Neural Core** | Central hub for AI capabilities and model inference |
+| **Vision Recognition** | CIFAR-10 neural network for image classification |
+| **Autonomous Agents** | Multi-agent task orchestration & workflow automation |
+| **Mind Bridge** | Neuroadaptive interface responsive to BCI input |
+| **Cognitive UI** | Adaptive theme engine responsive to user state |
 
-| 🎨 Design Systems | 🛰️ Space Tech | 🏥 Health Tech | 🌱 Green Tech |
-|:---:|:---:|:---:|:---:|
-| 4 Adaptive Themes | 17+ NASA APIs | COVID Analytics | Carbon Tracker |
-| Apple/Windows/Samsung | Real-time Viz | Health Dashboard | Eco Calculator |
+### 🚀 Space & Science
+| Feature | Description |
+|:---|:---|
+| **Cosmos Scope** | Live NASA planetary data feed and imagery |
+| **Research Lab** | Scientific data visualization hub |
+| **Health Systems** | Medical informatics dashboard and tracking |
+| **Nutrition Intelligence** | Recipe analysis & visual ingredient scanning |
+
+### 🛠️ Developer Tools
+| Feature | Description |
+|:---|:---|
+| **Dev Toolkit** | Diagnostic APIs and debugging utilities |
+| **Algo Visualizer** | Interactive data structures & algorithms |
+| **Math Engine** | Computational modeling tools and solvers |
+| **Chronos API** | Advanced date/time calculation engine |
+| **Mock Data Gen** | API for generating content placeholders |
+
+### 🎮 Entertainment & Media
+| Feature | Description |
+|:---|:---|
+| **Sonic Stream** | Unified Spotify & TIDAL integration |
+| **Retro Arcade** | Classic gaming emulation |
+| **Media Lounge** | Streaming entertainment (Twitch) |
+| **Cognitive Training** | Focus, memory, and agility exercises |
+
+### 🗺️ Navigation & Utilities
+| Feature | Description |
+|:---|:---|
+| **Route Intelligence** | Predictive hazard avoidance & optimization |
+| **Visual Immersion** | 3D spatial interface with depth parallax |
+| **Network Diagnostics** | Latency & bandwidth analysis |
+| **Global Time** | Multi-zone world clock synchronization |
+
+### 💬 Communication & Security
+| Feature | Description |
+|:---|:---|
+| **Secure Comm** | End-to-end encrypted real-time messaging |
+| **Typing Velocity** | WPM metrics and accuracy training |
+| **Enterprise Support** | Priority technical ticketing system |
+| **Marketplace** | Premium modules and extensions |
 
 </div>
 
@@ -59,31 +114,40 @@ const francisRey = {
 
 <div align="center">
 
-### Languages & Frameworks
+### Core Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,express,java,cs,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,express&theme=dark" />
 </p>
 
-### Frontend & Styling
+### Frontend & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,threejs,vite&theme=dark" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgresql,redis,firebase,graphql&theme=dark" />
-</p>
-
-### DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,azure,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,threejs,vue&theme=dark" />
 </p>
 
 ### AI & ML
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" height="48"/>
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,postgresql,redis,firebase&theme=dark" />
+</p>
+
+### DevOps & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,netlify,azure&theme=dark" />
+</p>
+
+### APIs Integrated
+<p>
+  <img src="https://img.shields.io/badge/NASA_APIs-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TIDAL-000000?style=for-the-badge&logo=tidal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white"/>
 </p>
 
 </div>
@@ -128,9 +192,12 @@ const francisRey = {
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect & Explore
 
 <div align="center">
+  <a href="https://frncsryddlbg.pages.dev">
+    <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Now-00D9FF?style=for-the-badge" alt="Portfolio"/>
+  </a>
   <a href="https://g.dev/sngttncs">
     <img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/>
   </a>
@@ -138,10 +205,7 @@ const francisRey = {
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
   <a href="mailto:secretparakoranemailc@tutamail.com">
-    <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/frncsryddlbg">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Email-840010?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -161,6 +225,6 @@ const francisRey = {
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Built with passion from Hokkaido, Japan 🗾</sub>
+<sub>⚡ Solo-built enterprise platform with 190+ components • Hosted on Cloudflare Pages 🗾</sub>
 
 </div>
