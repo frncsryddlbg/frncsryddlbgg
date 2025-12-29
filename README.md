@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 <!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Francis+%F0%9F%91%8B;Building+the+Future+from+Hokkaido+%F0%9F%97%BB;190%2B+Components+%7C+28%2B+Features+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Francis+%F0%9F%91%8B;Building+the+Future+from+Hokkaido+%F0%9F%97%BB;190%2B+Components+%E2%80%A2+28%2B+Features+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Animated Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,20&height=150&section=header&animation=fadeIn" width="100%"/>
@@ -29,9 +29,11 @@ Daily Routine:
   🌙 Night: Learning New Tech
 ```
 
+<br clear="right"/>
+
 ---
 
-## � What Makes Me Different
+## 🌟 What Makes Me Different
 
 <table>
 <tr>
@@ -57,17 +59,74 @@ Daily Routine:
 
 ---
 
+## 🛠️ The Actual Tech Stack (What I Really Use)
+
+<div align="center">
+
+### ⚛️ Frontend Core
+| Technology | Version | Purpose |
+|:---:|:---:|:---|
+| ![React](https://img.shields.io/badge/React-18.2-61DAFB?style=flat-square&logo=react&logoColor=white) | 18.2 | UI Framework |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript&logoColor=white) | 5.0 | Type Safety |
+| ![Vite](https://img.shields.io/badge/Vite-7.1-646CFF?style=flat-square&logo=vite&logoColor=white) | 7.1 | Build Tool |
+| ![MUI](https://img.shields.io/badge/MUI-7.1-007FFF?style=flat-square&logo=mui&logoColor=white) | 7.1 | Component Library |
+| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.15-FF0055?style=flat-square&logo=framer&logoColor=white) | 12.15 | Animations |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind-3.3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | 3.3 | Utility CSS |
+
+### 🧠 AI & Machine Learning
+| Technology | Purpose |
+|:---:|:---|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow.js-4.22-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ML Models in Browser |
+| ![MediaPipe](https://img.shields.io/badge/MediaPipe-Vision-00897B?style=flat-square&logo=google&logoColor=white) | Pose/Hand Detection |
+| ![Google AI](https://img.shields.io/badge/Gemini_AI-0.24-8E75B2?style=flat-square&logo=google&logoColor=white) | Generative AI |
+| ![COCO-SSD](https://img.shields.io/badge/COCO--SSD-2.2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | Object Detection |
+
+### 🖥️ Backend & Database
+| Technology | Purpose |
+|:---:|:---|
+| ![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Runtime |
+| ![Express](https://img.shields.io/badge/Express-5.1-000000?style=flat-square&logo=express&logoColor=white) | API Server |
+| ![Supabase](https://img.shields.io/badge/Supabase-2.88-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | Auth & Database |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8.16-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Database |
+
+### ☁️ Deployment & Hosting
+| Platform | Purpose |
+|:---:|:---|
+| ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white) | **Primary Hosting** |
+| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | Preview Deployments |
+| ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) | Static Assets |
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Cloud Functions |
+
+### 🗺️ Maps & Visualization
+| Technology | Purpose |
+|:---:|:---|
+| ![Three.js](https://img.shields.io/badge/Three.js-0.158-000000?style=flat-square&logo=threedotjs&logoColor=white) | 3D Graphics |
+| ![MapLibre](https://img.shields.io/badge/MapLibre-2.4-396CB2?style=flat-square&logo=maplibre&logoColor=white) | Maps |
+| ![Leaflet](https://img.shields.io/badge/Leaflet-1.9-199900?style=flat-square&logo=leaflet&logoColor=white) | Interactive Maps |
+| ![Chart.js](https://img.shields.io/badge/Chart.js-4.5-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) | Data Viz |
+
+### 🔐 Security & Auth
+| Technology | Purpose |
+|:---:|:---|
+| ![WebAuthn](https://img.shields.io/badge/WebAuthn-Passkeys-4285F4?style=flat-square&logo=webauthn&logoColor=white) | Passwordless Auth |
+| ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | Token Auth |
+| ![Argon2](https://img.shields.io/badge/Argon2-Hashing-7C3AED?style=flat-square) | Password Hashing |
+| ![Helmet](https://img.shields.io/badge/Helmet-8.1-000000?style=flat-square) | Security Headers |
+
+</div>
+
+---
+
 ## 🎪 The Portfolio Showcase
 
 <div align="center">
 
-<!-- Animated Feature Cards -->
-| 🤖 **AI Zone** | 🚀 **Space Lab** | 🎮 **Fun Stuff** |
-|:---:|:---:|:---:|
-| Neural Core | NASA Explorer | Retro Arcade |
-| Vision AI (CIFAR-10) | Cosmos Scope | Brain Games |
-| Autonomous Agents | Research Lab | Typing Race |
-| Mind Bridge (BCI) | Health Systems | Sonic Stream |
+| 🤖 **AI Zone** | 🚀 **Space Lab** | 🎮 **Fun Stuff** | 🛠️ **Tools** |
+|:---:|:---:|:---:|:---:|
+| Neural Core | NASA Explorer | Retro Arcade | Dev Toolkit |
+| Vision AI | Cosmos Scope | Brain Games | Algo Visualizer |
+| Autonomous Agents | Research Lab | Typing Race | Math Engine |
+| Mind Bridge (BCI) | Health Systems | Sonic Stream | World Clock |
 
 <br/>
 
@@ -75,48 +134,30 @@ Daily Routine:
 
 [![Portfolio](https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-Click_Here!-00D9FF?style=for-the-badge&labelColor=0D1117)](https://frncsryddlbg.pages.dev)
 
-<sub>Go ahead, I dare you to find something boring 😏</sub>
+<sub>Hosted on Cloudflare Pages • 190+ Components • <1.5s Load Time</sub>
 
 </div>
 
 ---
 
-## 🎵 Vibes While Coding
+## 🔗 APIs I've Integrated
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzw2zdiqvdxtjokd326r6udrsa&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff)](https://open.spotify.com/user/31uzw2zdiqvdxtjokd326r6udrsa)
-
-</div>
-
----
-
-## 🛠️ My Weapons of Choice
-
-<div align="center">
-
-<!-- Animated Icons -->
-<img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,express,threejs&theme=dark&perline=6" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=supabase,postgresql,tensorflow,cloudflare,docker,azure&theme=dark&perline=6" />
-
-<br/>
-
-### 🔗 APIs I've Conquered
 <p>
-  <img src="https://img.shields.io/badge/NASA-0B3D91?style=flat-square&logo=nasa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TIDAL-000000?style=flat-square&logo=tidal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NASA_APIs-17+_Endpoints-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spotify-Web_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TIDAL-Streaming-000000?style=for-the-badge&logo=tidal&logoColor=white"/>
 </p>
-
+<p>
+  <img src="https://img.shields.io/badge/Twitch-Helix_API-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-OAuth-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 </div>
 
 ---
 
-## 📊 The Numbers Don't Lie
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -125,8 +166,7 @@ Daily Routine:
 
 <br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frncsryddlbg&custom_title=My%20Commit%20Journey&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=F8D866&point=FF6B6B&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frncsryddlbg&custom_title=Commit+Activity&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=F8D866&point=FF6B6B&area=true" width="95%"/>
 
 </div>
 
@@ -140,7 +180,7 @@ Daily Routine:
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -152,18 +192,16 @@ Daily Routine:
 
 ---
 
-## � Fun Facts About Me
+## 🎲 Fun Facts
 
 <div align="center">
 
 | 🎯 | Fact |
 |:---:|:---|
-| 🎮 | I can code faster than I can type normally |
 | ☕ | Coffee-to-code ratio: 3 cups = 1 feature |
-| 🌙 | Best ideas come at 2 AM (unfortunately) |
-| 🎧 | Lo-fi is the official soundtrack of productivity |
+| 🌙 | Best ideas come at 2 AM |
 | 🐛 | Bugs fear me. They should. |
-| 📍 | Working from Hokkaido means fresh air + fresh code |
+| 📍 | Hokkaido = fresh air + fresh code |
 
 </div>
 
@@ -180,7 +218,7 @@ Daily Routine:
 ### 🤝 Let's Connect!
 
 <a href="https://frncsryddlbg.pages.dev">
-  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://g.dev/sngttncs">
   <img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/>
@@ -195,14 +233,10 @@ Daily Routine:
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hosted_on-Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare"/>
 <img src="https://img.shields.io/badge/From-Hokkaido,_Japan_🗾-00D9FF?style=flat-square"/>
-
-<br/>
-
-<sub>💡 **Pro tip:** Click on my portfolio link. You won't regret it. Probably.</sub>
 
 </div>
